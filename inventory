@@ -1,0 +1,7 @@
+[servers]
+nfs
+
+[clients]
+compute-1
+compute-2
+compute-3

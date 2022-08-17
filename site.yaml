@@ -1,0 +1,9 @@
+---
+- hosts: servers
+  #vars:
+  #  volume_size: 100g
+  roles:
+  - nfs-server
+- hosts: clients
+  roles:
+  - nfs-client

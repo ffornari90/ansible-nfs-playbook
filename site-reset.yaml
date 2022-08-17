@@ -1,0 +1,9 @@
+---
+- hosts: clients
+  roles:
+  - nfs-client-reset
+- hosts: servers
+  vars:
+    nfs_mountpoint: /srv/nfs
+  roles:
+  - nfs-server-reset
