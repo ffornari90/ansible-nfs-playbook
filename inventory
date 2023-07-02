@@ -1,7 +1,7 @@
 [servers]
-nfs
+vnode-0
 
 [clients]
-compute-1
-compute-2
-compute-3
+vnode-1
+vnode-2
+vnode-3

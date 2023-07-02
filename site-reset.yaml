@@ -4,6 +4,6 @@
   - nfs-client-reset
 - hosts: servers
   vars:
-    nfs_mountpoint: /srv/nfs
+    nfs_mountpoint: /data
   roles:
   - nfs-server-reset
