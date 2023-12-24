@@ -1,12 +1,12 @@
 [submodule "roles/nfs-server-reset"]
 	path = roles/nfs-server-reset
-	url = https://baltig.infn.it/fornari/nfs-server-reset.git
+	url = https://github.com/ffornari90/nfs-server-reset.git
 [submodule "roles/nfs-client-reset"]
 	path = roles/nfs-client-reset
-	url = https://baltig.infn.it/fornari/nfs-client-reset.git
+	url = https://github.com/ffornari90/nfs-client-reset.git
 [submodule "roles/nfs-server"]
 	path = roles/nfs-server
-	url = https://baltig.infn.it/fornari/nfs-server.git
+	url = https://github.com/ffornari90/nfs-server.git
 [submodule "roles/nfs-client"]
 	path = roles/nfs-client
-	url = https://baltig.infn.it/fornari/nfs-client.git
+	url = https://github.com/ffornari90/nfs-client.git
